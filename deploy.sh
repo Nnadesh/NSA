@@ -3,4 +3,6 @@ deploy python apps x
 deploy in the dev envn
 deployment5 master
 deployment4
-deployment to staging
+deployment to stagin
+echo good job.
+tested and acceptedg
