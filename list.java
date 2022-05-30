@@ -4,3 +4,4 @@ funke
 nadesh
 Bila
 Killi
+bug fixed
